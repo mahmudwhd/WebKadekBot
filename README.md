@@ -1,5 +1,2 @@
 KadekBot
-# kadek2
-# kadek2
-# WebKadekBot
-# WebKadekBot
+Bismillah Lancar Deploy ke kesian kali
